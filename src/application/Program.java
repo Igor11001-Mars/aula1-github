@@ -6,8 +6,7 @@ public class Program {
 		
 		
 		System.out.println("Teste github");
-		
-
+		System.out.println("Teste 2");
+		System.out.println("Teste 30");
 	}
-
 }
